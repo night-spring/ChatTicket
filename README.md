@@ -1,5 +1,7 @@
 # ChatTicket - A Full-Stack Ticketing System
-![thumbnail](Img/thumbnail.png)
+
+[![ChatTicket](Img/thumbnail.png)](https://youtu.be/ZNMZLLVNsOU?si=ZkyyjRU3bqNoyC8r)
+(Click on the thumbnail to see demo video)
 ## 🗂️ Description
 
 ChatTicket is a comprehensive ticketing system that enables users to book tickets for various events and exhibitions. The system consists of a user-friendly frontend built with React and a robust backend powered by FastAPI. It provides features like user authentication, ticket booking, chatbot integration, and analytics.
